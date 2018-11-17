@@ -64,6 +64,9 @@ banner
 .banner h1 span{
     color: #f66c27;
 }
+/*
+phần home
+ */
 .home .images-home{
     margin-top: 75px;
     margin-right: 300px;
@@ -73,6 +76,57 @@ banner
     color: #ff7b38;
     font-size: 20px;
 }
+/*
+phần help
+ */
+.help1{
+    text-align: center;
+    background: #eeeded;
+}
+.icon-help{
+    padding-top: 20px;
+    font-size: 50px;
+}
+.help1 h4{
+    padding-top: 15px;
+}
+.icon-help1 p{
+    text-align: center;
+    font-size: 16px;
+}
+.help2{
+    text-align: center;
+    background: #ffffff;
+}
+.help2 h4{
+    padding-top: 15px;
+}
+.icon-help2{
+    padding-top: 20px;
+    font-size: 40px;
+}
+.icon-help2 p{
+    font-size: 16px;
+    text-align: center;
+}
+.help3{
+    text-align: center;
+    background: #eeeded;
+}
+.icon-help3{
+    padding-top: 20px;
+    font-size: 50px;
+}
+.help3 h4{
+    padding-top: 15px;
+}
+.icon-help3 p {
+    text-align: center;
+    font-size: 16px;
+}
+/*
+phần map
+ */
 .map{
     text-align: center;
 }
@@ -190,4 +244,54 @@ footer .social-icon i{
 }
 footer .social-icon i:hover{
     background: #f48146;
+}
+/*
+phần ảnh our-project
+ */
+.our-project {
+    padding: 50px 0;
+}
+
+.our-project h3 {
+    font-size: 45px;
+    margin-bottom: 40px;
+}
+
+.our-project .project-col img {
+    max-width: 100%;
+    padding: 5px;
+    border: 1px solid #eeeeee;
+}
+
+.our-project .project-col-1 img{
+    height: 250px;
+    width: auto;
+}
+
+.our-project .project-col-1 .project-item {
+    margin-bottom: 90px;
+}
+
+.our-project.project-col-1 p {
+    margin-bottom: 35px;
+}
+
+.our-project .project-col-1 a {
+    background: #f48146;
+    color: #ffffff;
+    display: inline-block;
+    width: auto;
+    padding: 10px 20px;
+    border-radius: 32px;
+}
+
+.our-project .project-col-2 img{
+    height: 650px;
+    width: auto;
+}
+
+.our-project .project-col-3 img{
+    height: 300px;
+    width: auto;
+    margin-bottom: 48px;
 }
