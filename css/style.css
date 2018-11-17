@@ -64,6 +64,41 @@ banner
 .banner h1 span{
     color: #f66c27;
 }
+.home .images-home{
+    margin-top: 75px;
+    margin-right: 300px;
+}
+.home-right h4{
+    margin-left: 150px;
+    color: #ff7b38;
+    font-size: 20px;
+}
+.map{
+    text-align: center;
+}
+.row h3{
+    text-align: center;
+    margin-bottom: 30px;
+    width: 100%;
+    padding-top: 60px;
+    font-size: 45px;
+}
+.row p{
+    margin-left: 150px;
+    color: #9b9b9b;
+    font-size: 15px;
+    margin-top: 30px;
+}
+.form-home input[type='read-more'] {
+    background: #f66c27;
+    color: #ffffff;
+    display: inline-block;
+    width: auto;
+    padding: 6px 0;
+    border-radius: 32px;
+    font-size: 18px;
+    text-align: center;
+}
 /*
 footer
  */
