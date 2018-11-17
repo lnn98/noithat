@@ -90,10 +90,6 @@ phần help
 .help1 h4{
     padding-top: 15px;
 }
-.icon-help1 p{
-    text-align: center;
-    font-size: 16px;
-}
 .help2{
     text-align: center;
     background: #ffffff;
@@ -105,9 +101,8 @@ phần help
     padding-top: 20px;
     font-size: 40px;
 }
-.icon-help2 p{
+.help2 p{
     font-size: 16px;
-    text-align: center;
 }
 .help3{
     text-align: center;
@@ -119,10 +114,6 @@ phần help
 }
 .help3 h4{
     padding-top: 15px;
-}
-.icon-help3 p {
-    text-align: center;
-    font-size: 16px;
 }
 /*
 phần map
@@ -274,6 +265,9 @@ phần ảnh our-project
 
 .our-project.project-col-1 p {
     margin-bottom: 35px;
+}
+.our-project span {
+    color: #f48146;
 }
 
 .our-project .project-col-1 a {
