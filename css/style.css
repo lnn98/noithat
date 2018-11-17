@@ -98,7 +98,9 @@ footer .contact-form{
 .first-row input[name='email'] {
     float: right;
 }
-.conta
+.content-form input[type='text']{
+    padding: 10px;
+}
 .content-form input:focus,textarea:focus{
     outline: none;
 }
