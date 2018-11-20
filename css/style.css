@@ -76,6 +76,14 @@ phần home
     color: #ff7b38;
     font-size: 20px;
 }
+.home-right button{
+    background: #f48146;
+    width: 25%;
+    padding: 6px 20px;
+    border-radius: 32px;
+    margin-left: 150px;
+    color: white;
+}
 /*
 phần help
  */
