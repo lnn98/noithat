@@ -157,6 +157,46 @@ phần map
     text-align: center;
 }
 /*
+Subscribe
+ */
+.subscribe{
+    height: 360px;
+    background: url("../images/subscribe.jpg");
+    position: relative;
+    text-align: center;
+}
+.subscribe .tim_kiem{
+    position: absolute;
+    z-index: 1;
+    bottom: 10%;
+    left: 15%;
+}
+.subscribe .sub-enter{
+    position: absolute;
+    z-index: 2;
+    bottom: 30%;
+    left: 30%;
+    line-height: 30px;
+}
+.subscribe .sub-enter input[type='text']{
+    background: #ffffff;
+    width: 60%;
+    padding: 0px 10px;
+    border-radius: 32px;
+    border: none;
+}
+.subscribe .sub-enter input[type='submit']{
+    background: #f48146;
+    width: 20%;
+    padding: 6px 20px;
+    border-radius: 32px;
+    border: none;
+    box-shadow: 10px 10px 20px 5px #E57F4C;
+    color: white;
+
+}
+
+/*
 footer
  */
 footer{
